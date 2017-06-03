@@ -16,9 +16,7 @@ def predict(orders_list):
 	#normalize it.
 	product_freq = products_freq.apply(lambda d: (d - np.median(d)) / d.max(), axis=1)
 	DA_orders    = pd.read_csv('./data/orders.csv')
-	#DA_orders    = DA_orders[ DA_orders.order_id.isin(orders_list) ]
 	DA_products  = pd.read_csv('./data/order_products__prior.csv')
-	#DA_products  = DA_products[ DA_products.order_id.isin(orders_list) ]
 
 	for order_id in orders_list :
 		# compute user's products freq.
