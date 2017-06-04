@@ -1,0 +1,300 @@
+DEBUG:root:Step 1, with orders ids from 0 to 1000 ...
+DEBUG:root:finished in 657 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 2, with orders ids from 1000 to 2000 ...
+DEBUG:root:finished in 879 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 3, with orders ids from 2000 to 3000 ...
+DEBUG:root:finished in 764 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 4, with orders ids from 3000 to 4000 ...
+DEBUG:root:finished in 768 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 5, with orders ids from 4000 to 5000 ...
+DEBUG:root:finished in 791 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 6, with orders ids from 5000 to 6000 ...
+DEBUG:root:finished in 703 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 7, with orders ids from 6000 to 7000 ...
+DEBUG:root:finished in 633 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 8, with orders ids from 7000 to 8000 ...
+DEBUG:root:finished in 649 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 9, with orders ids from 8000 to 9000 ...
+DEBUG:root:finished in 622 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 10, with orders ids from 9000 to 10000 ...
+DEBUG:root:finished in 678 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 11, with orders ids from 10000 to 11000 ...
+DEBUG:root:finished in 700 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 12, with orders ids from 11000 to 12000 ...
+DEBUG:root:finished in 623 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 13, with orders ids from 12000 to 13000 ...
+DEBUG:root:finished in 631 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 14, with orders ids from 13000 to 14000 ...
+DEBUG:root:finished in 652 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 15, with orders ids from 14000 to 15000 ...
+DEBUG:root:finished in 726 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 16, with orders ids from 15000 to 16000 ...
+DEBUG:root:finished in 701 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 17, with orders ids from 16000 to 17000 ...
+DEBUG:root:finished in 681 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 18, with orders ids from 17000 to 18000 ...
+DEBUG:root:finished in 632 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 19, with orders ids from 18000 to 19000 ...
+DEBUG:root:finished in 655 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 20, with orders ids from 19000 to 20000 ...
+DEBUG:root:finished in 645 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 21, with orders ids from 20000 to 21000 ...
+DEBUG:root:finished in 640 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 22, with orders ids from 21000 to 22000 ...
+DEBUG:root:finished in 703 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 23, with orders ids from 22000 to 23000 ...
+DEBUG:root:finished in 680 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 24, with orders ids from 23000 to 24000 ...
+DEBUG:root:finished in 688 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 25, with orders ids from 24000 to 25000 ...
+DEBUG:root:finished in 745 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 26, with orders ids from 25000 to 26000 ...
+DEBUG:root:finished in 662 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 27, with orders ids from 26000 to 27000 ...
+DEBUG:root:finished in 628 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 28, with orders ids from 27000 to 28000 ...
+DEBUG:root:finished in 634 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 29, with orders ids from 28000 to 29000 ...
+DEBUG:root:finished in 622 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 30, with orders ids from 29000 to 30000 ...
+DEBUG:root:finished in 642 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 31, with orders ids from 30000 to 31000 ...
+DEBUG:root:finished in 617 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 32, with orders ids from 31000 to 32000 ...
+DEBUG:root:finished in 606 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 33, with orders ids from 32000 to 33000 ...
+DEBUG:root:finished in 624 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 34, with orders ids from 33000 to 34000 ...
+DEBUG:root:finished in 625 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 35, with orders ids from 34000 to 35000 ...
+DEBUG:root:finished in 661 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 36, with orders ids from 35000 to 36000 ...
+DEBUG:root:finished in 613 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 37, with orders ids from 36000 to 37000 ...
+DEBUG:root:finished in 626 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 38, with orders ids from 37000 to 38000 ...
+DEBUG:root:finished in 630 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 39, with orders ids from 38000 to 39000 ...
+DEBUG:root:finished in 603 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 40, with orders ids from 39000 to 40000 ...
+DEBUG:root:finished in 614 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 41, with orders ids from 40000 to 41000 ...
+DEBUG:root:finished in 608 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 42, with orders ids from 41000 to 42000 ...
+DEBUG:root:finished in 600 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 43, with orders ids from 42000 to 43000 ...
+DEBUG:root:finished in 632 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 44, with orders ids from 43000 to 44000 ...
+DEBUG:root:finished in 631 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 45, with orders ids from 44000 to 45000 ...
+DEBUG:root:finished in 612 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 46, with orders ids from 45000 to 46000 ...
+DEBUG:root:finished in 602 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 47, with orders ids from 46000 to 47000 ...
+DEBUG:root:finished in 606 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 48, with orders ids from 47000 to 48000 ...
+DEBUG:root:finished in 604 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 49, with orders ids from 48000 to 49000 ...
+DEBUG:root:finished in 621 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 50, with orders ids from 49000 to 50000 ...
+DEBUG:root:finished in 642 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 51, with orders ids from 50000 to 51000 ...
+DEBUG:root:finished in 629 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 52, with orders ids from 51000 to 52000 ...
+DEBUG:root:finished in 649 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 53, with orders ids from 52000 to 53000 ...
+DEBUG:root:finished in 617 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 54, with orders ids from 53000 to 54000 ...
+DEBUG:root:finished in 597 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 55, with orders ids from 54000 to 55000 ...
+DEBUG:root:finished in 618 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 56, with orders ids from 55000 to 56000 ...
+DEBUG:root:finished in 627 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 57, with orders ids from 56000 to 57000 ...
+DEBUG:root:finished in 629 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 58, with orders ids from 57000 to 58000 ...
+DEBUG:root:finished in 626 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 59, with orders ids from 58000 to 59000 ...
+DEBUG:root:finished in 626 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 60, with orders ids from 59000 to 60000 ...
+DEBUG:root:finished in 605 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 61, with orders ids from 60000 to 61000 ...
+DEBUG:root:finished in 608 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 62, with orders ids from 61000 to 62000 ...
+DEBUG:root:finished in 614 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 63, with orders ids from 62000 to 63000 ...
+DEBUG:root:finished in 608 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 64, with orders ids from 63000 to 64000 ...
+DEBUG:root:finished in 626 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 65, with orders ids from 64000 to 65000 ...
+DEBUG:root:finished in 602 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 66, with orders ids from 65000 to 66000 ...
+DEBUG:root:finished in 669 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 67, with orders ids from 66000 to 67000 ...
+DEBUG:root:finished in 637 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 68, with orders ids from 67000 to 68000 ...
+DEBUG:root:finished in 623 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 69, with orders ids from 68000 to 69000 ...
+DEBUG:root:finished in 619 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 70, with orders ids from 69000 to 70000 ...
+DEBUG:root:finished in 651 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 71, with orders ids from 70000 to 71000 ...
+DEBUG:root:finished in 634 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 72, with orders ids from 71000 to 72000 ...
+DEBUG:root:finished in 621 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 73, with orders ids from 72000 to 73000 ...
+DEBUG:root:finished in 633 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 74, with orders ids from 73000 to 74000 ...
+DEBUG:root:finished in 635 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
+DEBUG:root:Step 75, with orders ids from 74000 to 75000 ...
+DEBUG:root:finished in 637 seconds
+*-*-*-*-*-*-*-*-*-*-*-*-**-*
+.
