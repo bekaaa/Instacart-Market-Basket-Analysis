@@ -29,8 +29,9 @@ import pickle
 #disable pandas warnings.
 pd.options.mode.chained_assignment = None  # default='warn'
 
-DA_orders = pd.read_csv('./data/orders.csv')
-DA_order_products__prior = pd.read_csv('./data/order_products__prior.csv')
+#-------------------------------------
+DA_orders   = pd.read_csv('./data/orders.csv')
+DA_products = pd.read_csv('./data/order_products__prior.csv')
 
 # define the Datafrmae
 # 1 to 49688 product rows
@@ -50,9 +51,8 @@ for i in range(0,207000,step):
 	#time record for log messsages.
 	t = np.datetime64('now');
 
-	orders_S = DA_orders[DA_orders.user_id.isin(range(i,i+step))]
-	products_S =\
-		DA_order_products__prior[ DA_order_products__prior.order_id.isin(orders_S.order_id) ]
+	orders_S   = DA_orders[DA_orders.user_id.isin(range(i,i+step))]
+	products_S = DA_products[ DA_products.order_id.isin(orders_S.order_id) ]
 	# drop some columns to minimize the data size.
 	orders_S.drop(['user_id','eval_set','order_number','days_since_prior_order'],axis=1,inplace=1)
 	products_S.drop(['add_to_cart_order','reordered'],axis=1,inplace=1)
