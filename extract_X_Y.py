@@ -4,11 +4,11 @@ import numpy as np
 import pickle
 import log
 from per_user_product_freq import user_product_freq
-
-logfilename = 'log-extractXY.log'
-log.init(logfilename)
+log.LOG_PATH = './data/ML/'
+log.init('log.log')
 log.msg('**************************************')
 log.msg('log file initialized')
+log.msg('\t\t\t** Extraction X and Y , script : extract_X_Y.py')
 #--------------------
 # reading data files
 pklfile = './data/pickles/product_freq_df.pkl'
@@ -52,7 +52,7 @@ def get_X_Y(order):
 	return
 #------------------------------------------
 total_size = 131209
-size = 10000
+size = 100
 orders_train   = DA_orders[DA_orders.eval_set == 'train']
 orders_train   = orders_train.iloc[range(0,size)]
 #----------------------------------------------
@@ -64,15 +64,11 @@ log.msg('estimated time is %.2f seconds, or %.2f minutes or %.2f hours' % \
 _ = orders_train.apply(get_X_Y, axis=1)
 #-----------------------------------
 log.msg('X and Y are ready now.')
-log.msg('saving to pickles...')
+log.msg('saving to csv files...')
 #---------------------------------
-# save to pickles
-xfile = './data/pickles/X__%d.pkl' % size
-yfile = './data/pickles/Y__%d.pkl' % size
-with open(xfile, 'wb') as f :
-	pickle.dump(X, f)
-with open(yfile, 'wb') as f :
-	pickle.dump(Y, f)
+# save to CSV files
+X.to_csv('./data/ML/X__%d.csv' % size)
+Y.to_csv('./data/ML/Y__%d.csv' % size)
 #--------------------------------
 log.msg('DONE, exiting')
 log.close()
