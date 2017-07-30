@@ -15,40 +15,48 @@ log.msg('log file initialized')
 log.msg('\t\t\t ** predicting test data, script : ML_testing_model.py')
 log.msg('reading data files....')
 #------------------------------------------------------
-filename = './data/ML/model0.pkl'
+filename = './data/ML/model1.pkl'
 with open(filename, 'rb') as f:
 	model     = pickle.load(f)
 DA_orders     = pd.read_csv('./data/data/orders.csv')
 DA_products   = pd.read_csv('./data/data/order_products__prior.csv')
 products_freq = pd.read_csv('./data/data/products_freq.csv', index_col='Unnamed: 0')
+#products_freq  = products_freq.apply(lambda d : ( d + d.mean() ) / d.max(), axis=0 )
+
 #---------------------------------------------------------
 log.msg('data is ready')
 #---------------------------------------------------------
 predictions = dict()
 #---------------------------------
-def predict_order(test_order):
-	u          = int(test_order.user_id)
-	u_orders   = DA_orders[ DA_orders.user_id == u ]
-	u_products = DA_products[ DA_products.order_id.isin(u_orders.order_id.tolist()) ]
+def predict_order(order):
+	# order is a Series object.
+	u            = int(order.user_id)
+	u_orders     = DA_orders[ DA_orders.user_id == u ]
+	u_products   = DA_products[ DA_products.order_id.isin(u_orders.order_id.tolist()) ]
 
-	C          = (int(test_order.order_dow) * 24) + int(test_order.order_hour_of_day)
-	X          = user_product_freq( u_orders, u_products )
-	X          = X.apply(lambda d: 5*d + products_freq.loc[d.name].reset_index(drop=True), axis=1)
-	X          = X[[ ( C + i ) % 168 for i in range(0,168) ]]
-	X.columns  = range(0,168)
-	p = model.predict(X)
+	X                 = user_product_freq( u_orders, u_products )
+	X[range(168,336)] = products_freq
+
+	C            = (int(order.order_dow) * 24) + int(order.order_hour_of_day)
+	cols         = [ ( C + i ) % 168 for i in range(0,168) ]
+	for i in cols[:]:
+		cols.append(i+168)
+	X          = X[cols]
+	X.columns  = range(0,336)
+	#-------------------------
+	p    = model.predict(X)
 	pred = []
 	Xind = X.index
 	for ind,val in zip(range(len(p)),p):
 		if val == 1 :
 			pred.append(Xind[ind])
 	global predictions
-	predictions[int(test_order.order_id)] = ' '.join([str(i) for i in pred])
+	predictions[int(order.order_id)] = ' '.join([str(i) for i in pred])
 	return
 #----------------------------------------
-test_orders = DA_orders[DA_orders.eval_set == 'test']
+test_orders = DA_orders[DA_orders.eval_set == 'train']
 max_ = 75000 # number of test samples.
-size = 75000
+size = 1000
 #---------------------------------------------
 log.msg('testing data with size %d' % size )
 eta = .66 * size
@@ -56,12 +64,12 @@ log.msg('estimated time is %.2f seconds, or %.2f minutes, or %.2f hours' %\
 	(eta, eta / 60, eta / 120) )
 #---------------------------------------------
 t = np.datetime64('now')
-test_orders.iloc[range(size)].apply(predict_order, axis=1)
+test_orders.sample(n=size).apply(predict_order, axis=1)
 log.msg('it took {}'.format(str(np.datetime64('now')-t)))
 #-----------------------------------------------
 log.msg('done, saving to a csv file')
 #----------------------------------------------
-outputfile = './data/ML/predictions.csv'
+outputfile = './data/predictions/predictions.csv'
 with open(outputfile, 'wb') as f:
 	f.write('order_id,products\n')
 	for k,v in predictions.items() :

@@ -14,8 +14,8 @@ log.msg('log file initialized')
 log.msg('\t\t\t** Training model , script : ML_training_model.py')
 log.msg('reading X and Y files')
 #-----------------------------------------------
-X = pd.read_csv('./data/ML/X__10000.csv',index_col='Unnamed: 0')
-Y = pd.read_csv('./data/ML/Y__10000.csv',index_col='Unnamed: 0')
+X = pd.read_csv('./data/ML/X__1000.csv',index_col='Unnamed: 0')
+Y = pd.read_csv('./data/ML/Y__1000.csv',index_col='Unnamed: 0')
 #-------------------------------------------------
 log.msg('X and Y dataframes are ready')
 #--------------------------------------------------------------------
@@ -33,7 +33,8 @@ params = {
 	"reg_lambda"          : 10,
 	"random_state"        : 40
 }
-model = XGBClassifier(**params)
+X.columns = range(0,336)
+model = XGBClassifier()
 log.msg("fitting model")
 model.fit(X, Y['0'].ravel())
 #--------------------------------------------

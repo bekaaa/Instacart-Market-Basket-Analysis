@@ -1,0 +1,1109 @@
+06-28 14:01 INFO: **************************************
+06-28 14:01 INFO: log file initialized
+06-28 14:01 INFO: **************************************
+06-28 14:01 INFO: log file initialized
+06-28 14:01 INFO: getting X and Y for training orders from 0 to 131209
+06-28 14:01 INFO: estimated time is 91846.30 seconds, or 1530.77 minutes or 25.51 hours
+06-28 14:20 INFO: **************************************
+06-28 14:20 INFO: log file initialized
+06-28 14:20 INFO: getting X and Y for training orders from 0 to 10000
+06-28 14:20 INFO: estimated time is 7000.00 seconds, or 116.67 minutes or 1.94 hours
+06-28 16:30 INFO: X and Y are ready now.
+06-28 16:30 INFO: saving to pickles...
+06-28 22:41 INFO: **************************************
+06-28 22:41 INFO: log file initialized
+06-28 22:42 INFO: getting X and Y for training orders from 0 to 10000
+06-28 22:42 INFO: estimated time is 7000.00 seconds, or 116.67 minutes or 1.94 hours
+06-29 00:52 INFO: X and Y are ready now.
+06-29 00:52 INFO: saving to pickles...
+06-29 00:55 INFO: DONE, exiting
+06-29 04:27 INFO: **************************************
+06-29 04:27 INFO: log file initialized
+06-29 04:27 INFO: 			** Training model , script : ML_training_model.py
+06-29 04:27 INFO: reading X and Y files
+06-29 04:28 INFO: **************************************
+06-29 04:28 INFO: log file initialized
+06-29 04:28 INFO: 			** Training model , script : ML_training_model.py
+06-29 04:28 INFO: reading X and Y files
+06-29 04:29 INFO: X and Y dataframes are ready
+06-29 04:29 INFO: Initializing and training the model
+06-29 05:08 INFO: **************************************
+06-29 05:08 INFO: log file initialized
+06-29 05:08 INFO: 			** Training model , script : ML_training_model.py
+06-29 05:08 INFO: reading X and Y files
+06-29 05:09 INFO: X and Y dataframes are ready
+06-29 05:09 INFO: Initializing and training the model
+06-29 05:39 INFO: model fitted successfully
+06-29 05:43 INFO: **************************************
+06-29 05:43 INFO: log file initialized
+06-29 05:43 INFO: 			** Training model , script : ML_training_model.py
+06-29 05:43 INFO: reading X and Y files
+06-29 05:44 INFO: X and Y dataframes are ready
+06-29 05:44 INFO: Initializing and training the model
+06-29 05:44 INFO: fitting model
+06-29 05:44 INFO: model fitted successfully
+06-29 05:44 INFO: saving to model0.pkl
+06-29 05:44 INFO: DONE, exiting
+06-29 05:48 INFO: **************************************
+06-29 05:48 INFO: log file initialized
+06-29 05:48 INFO: 			** Training model , script : ML_training_model.py
+06-29 05:48 INFO: reading X and Y files
+06-29 05:49 INFO: **************************************
+06-29 05:49 INFO: log file initialized
+06-29 05:49 INFO: 			** Training model , script : ML_training_model.py
+06-29 05:49 INFO: reading X and Y files
+06-29 05:49 INFO: X and Y dataframes are ready
+06-29 05:49 INFO: Initializing and training the model
+06-29 05:49 INFO: fitting model
+06-29 06:19 INFO: model fitted successfully
+06-29 06:19 INFO: saving to model0.pkl
+06-29 06:19 INFO: DONE, exiting
+06-29 06:40 INFO: log file initialized
+06-29 06:40 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 06:40 INFO: reading data files....
+06-29 06:41 INFO: data is ready
+06-29 06:41 INFO: testing data with size 10
+06-29 06:42 INFO: log file initialized
+06-29 06:42 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 06:42 INFO: reading data files....
+06-29 06:42 INFO: data is ready
+06-29 06:42 INFO: testing data with size 10
+06-29 07:24 INFO: *********************************************
+06-29 07:24 INFO: log file initialized
+06-29 07:24 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 07:24 INFO: reading data files....
+06-29 07:24 INFO: data is ready
+06-29 07:24 INFO: testing data with size 10
+06-29 07:25 INFO: *********************************************
+06-29 07:25 INFO: log file initialized
+06-29 07:25 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 07:25 INFO: reading data files....
+06-29 07:25 INFO: data is ready
+06-29 07:25 INFO: testing data with size 10
+06-29 07:25 INFO: done, saving to a csv file
+06-29 07:25 INFO: DONE, exiting
+06-29 11:05 INFO: *********************************************
+06-29 11:05 INFO: log file initialized
+06-29 11:05 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 11:05 INFO: reading data files....
+06-29 11:06 INFO: data is ready
+06-29 11:06 INFO: testing data with size 10
+06-29 11:07 INFO: *********************************************
+06-29 11:07 INFO: log file initialized
+06-29 11:07 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 11:07 INFO: reading data files....
+06-29 11:08 INFO: data is ready
+06-29 11:08 INFO: testing data with size 10
+06-29 11:08 INFO: done, saving to a csv file
+06-29 11:08 INFO: DONE, exiting
+06-29 11:10 INFO: *********************************************
+06-29 11:10 INFO: log file initialized
+06-29 11:10 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 11:10 INFO: reading data files....
+06-29 11:10 INFO: data is ready
+06-29 11:10 INFO: testing data with size 1000
+06-29 11:28 INFO: *********************************************
+06-29 11:28 INFO: log file initialized
+06-29 11:28 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 11:28 INFO: reading data files....
+06-29 11:28 INFO: data is ready
+06-29 11:29 INFO: *********************************************
+06-29 11:29 INFO: log file initialized
+06-29 11:29 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 11:29 INFO: reading data files....
+06-29 11:29 INFO: data is ready
+06-29 11:29 INFO: testing data with size 1000
+06-29 11:29 INFO: estimated time is 660.00 seconds, or 39600.00 minutes, or 79200.00 hours
+06-29 11:32 INFO: *********************************************
+06-29 11:32 INFO: log file initialized
+06-29 11:32 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 11:32 INFO: reading data files....
+06-29 11:32 INFO: data is ready
+06-29 11:32 INFO: testing data with size 10
+06-29 11:32 INFO: estimated time is 6.60 seconds, or 0.11 minutes, or 0.06 hours
+06-29 11:32 INFO: it took 4 seconds
+06-29 11:32 INFO: done, saving to a csv file
+06-29 11:32 INFO: DONE, exiting
+06-29 11:33 INFO: *********************************************
+06-29 11:33 INFO: log file initialized
+06-29 11:33 INFO: 			 ** predicting test data, script : ML_testing_model.py
+06-29 11:33 INFO: reading data files....
+06-29 11:33 INFO: data is ready
+06-29 11:33 INFO: testing data with size 75000
+06-29 11:33 INFO: estimated time is 49500.00 seconds, or 825.00 minutes, or 412.50 hours
+07-03 12:47 INFO: **************************************
+07-03 12:47 INFO: log file initialized
+07-03 12:47 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-03 12:48 INFO: getting X and Y for training orders from 0 to 100
+07-03 12:48 INFO: estimated time is 70.00 seconds, or 1.17 minutes or 0.02 hours
+07-03 12:49 INFO: X and Y are ready now.
+07-03 12:49 INFO: saving to pickles...
+07-03 12:49 INFO: DONE, exiting
+07-03 12:50 INFO: **************************************
+07-03 12:50 INFO: log file initialized
+07-03 12:50 INFO: 			** Training model , script : ML_training_model.py
+07-03 12:50 INFO: reading X and Y files
+07-03 12:56 INFO: **************************************
+07-03 12:56 INFO: log file initialized
+07-03 12:56 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-03 12:56 INFO: getting X and Y for training orders from 0 to 100
+07-03 12:56 INFO: estimated time is 70.00 seconds, or 1.17 minutes or 0.02 hours
+07-03 12:58 INFO: X and Y are ready now.
+07-03 12:58 INFO: saving to csv files...
+07-03 12:58 INFO: DONE, exiting
+07-03 12:58 INFO: **************************************
+07-03 12:58 INFO: log file initialized
+07-03 12:58 INFO: 			** Training model , script : ML_training_model.py
+07-03 12:58 INFO: reading X and Y files
+07-03 12:58 INFO: X and Y dataframes are ready
+07-03 12:58 INFO: Initializing and training the model
+07-03 12:58 INFO: fitting model
+07-03 12:58 INFO: model fitted successfully
+07-03 12:58 INFO: saving to model2.pkl
+07-03 12:58 INFO: DONE, exiting
+07-04 15:07 INFO: log file initialized
+07-04 15:07 INFO: 			** Training model , script : ML_model_score_.py
+07-04 15:07 INFO: reading X and Y files
+07-04 15:07 INFO: log file initialized
+07-04 15:07 INFO: 			** Training model , script : ML_model_score_.py
+07-04 15:07 INFO: reading X and Y files
+07-04 15:09 INFO: X and Y dataframes are ready
+07-04 15:09 INFO: getting sample data..
+07-04 15:09 INFO: predicting..
+07-04 15:09 INFO:              precision    recall  f1-score   support
+
+        0.0       0.91      0.99      0.95    115181
+        1.0       0.39      0.06      0.11     12605
+
+avg / total       0.85      0.90      0.86    127786
+
+07-04 15:09 INFO: DONE, exiting..
+07-07 12:43 INFO: **************************************
+07-07 12:43 INFO: log file initialized
+07-07 12:43 INFO: 			** Training model , script : ML_training_model.py
+07-07 12:43 INFO: reading X and Y files
+07-07 12:43 INFO: X and Y dataframes are ready
+07-07 12:43 INFO: Initializing and training the model
+07-07 12:43 INFO: fitting model
+07-07 12:51 INFO: **************************************
+07-07 12:51 INFO: log file initialized
+07-07 12:51 INFO: 			** Training model , script : ML_training_model.py
+07-07 12:51 INFO: reading X and Y files
+07-07 12:51 INFO: X and Y dataframes are ready
+07-07 12:51 INFO: Initializing and training the model
+07-07 12:51 INFO: fitting model
+07-07 12:52 INFO: model fitted successfully
+07-07 12:52 INFO: saving to model2.pkl
+07-07 12:52 INFO: DONE, exiting
+07-07 12:55 INFO: **************************************
+07-07 12:55 INFO: log file initialized
+07-07 12:55 INFO: 			** Training model , script : ML_training_model.py
+07-07 12:55 INFO: reading X and Y files
+07-07 12:55 INFO: X and Y dataframes are ready
+07-07 12:55 INFO: Initializing and training the model
+07-07 12:55 INFO: fitting model
+07-07 12:56 INFO: model fitted successfully
+07-07 12:56 INFO: saving to model2.pkl
+07-07 12:56 INFO: DONE, exiting
+07-07 12:59 INFO: **************************************
+07-07 12:59 INFO: log file initialized
+07-07 12:59 INFO: 			** Training model , script : ML_model_score_.py
+07-07 12:59 INFO: reading X and Y files
+07-07 13:00 INFO: X and Y dataframes are ready
+07-07 13:00 INFO: getting sample data..
+07-07 13:00 INFO: predicting..
+07-07 13:00 INFO:              precision    recall  f1-score   support
+
+        0.0       0.90      1.00      0.95    115181
+        1.0       0.42      0.03      0.05     12605
+
+avg / total       0.86      0.90      0.86    127786
+
+07-07 13:00 INFO: DONE, exiting..
+07-07 13:10 INFO: **************************************
+07-07 13:10 INFO: log file initialized
+07-07 13:10 INFO: 			** Training model , script : ML_training_model.py
+07-07 13:10 INFO: reading X and Y files
+07-07 13:10 INFO: X and Y dataframes are ready
+07-07 13:10 INFO: Initializing and training the model
+07-07 13:10 INFO: fitting model
+07-07 13:10 INFO: model fitted successfully
+07-07 13:11 INFO: **************************************
+07-07 13:11 INFO: log file initialized
+07-07 13:11 INFO: 			** Training model , script : ML_training_model.py
+07-07 13:11 INFO: reading X and Y files
+07-07 13:11 INFO: X and Y dataframes are ready
+07-07 13:11 INFO: Initializing and training the model
+07-07 13:11 INFO: fitting model
+07-07 13:11 INFO: model fitted successfully
+07-07 13:11 INFO: saving to model3.pkl
+07-07 13:11 INFO: DONE, exiting
+07-07 13:13 INFO: **************************************
+07-07 13:13 INFO: log file initialized
+07-07 13:13 INFO: 			** Training model , script : ML_model_score_.py
+07-07 13:13 INFO: reading X and Y files
+07-07 13:14 INFO: X and Y dataframes are ready
+07-07 13:14 INFO: getting sample data..
+07-07 13:14 INFO: predicting..
+07-07 13:14 INFO:              precision    recall  f1-score   support
+
+        0.0       1.00      1.00      1.00         1
+
+avg / total       1.00      1.00      1.00         1
+
+07-07 13:14 INFO: DONE, exiting..
+07-07 13:15 INFO: **************************************
+07-07 13:15 INFO: log file initialized
+07-07 13:15 INFO: 			** Training model , script : ML_model_score_.py
+07-07 13:15 INFO: reading X and Y files
+07-07 13:16 INFO: X and Y dataframes are ready
+07-07 13:16 INFO: getting sample data..
+07-07 13:16 INFO: predicting..
+07-07 13:18 INFO:              precision    recall  f1-score   support
+
+        0.0       0.90      1.00      0.95    576209
+        1.0       0.42      0.03      0.06     62720
+
+avg / total       0.86      0.90      0.86    638929
+
+07-07 13:18 INFO: DONE, exiting..
+07-07 13:28 INFO: **************************************
+07-07 13:28 INFO: log file initialized
+07-07 13:28 INFO: 			** Training model , script : ML_training_model.py
+07-07 13:28 INFO: reading X and Y files
+07-07 13:30 INFO: X and Y dataframes are ready
+07-07 13:30 INFO: Initializing and training the model
+07-07 13:30 INFO: fitting model
+07-07 13:53 INFO: model fitted successfully
+07-07 13:53 INFO: saving to model4.pkl
+07-07 13:53 INFO: DONE, exiting
+07-07 13:54 INFO: **************************************
+07-07 13:54 INFO: log file initialized
+07-07 13:54 INFO: 			** Training model , script : ML_model_score_.py
+07-07 13:54 INFO: reading X and Y files
+07-07 13:54 INFO: X and Y dataframes are ready
+07-07 13:54 INFO: getting sample data..
+07-07 13:54 INFO: predicting..
+07-07 13:54 INFO:              precision    recall  f1-score   support
+
+        0.0       0.89      1.00      0.94      5149
+        1.0       0.61      0.03      0.06       664
+
+avg / total       0.86      0.89      0.84      5813
+
+07-07 13:54 INFO: DONE, exiting..
+07-20 20:05 INFO: **************************************
+07-20 20:05 INFO: log file initialized
+07-20 20:05 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-20 20:06 INFO: getting X and Y for training orders from 0 to 100
+07-20 20:06 INFO: estimated time is 70.00 seconds, or 1.17 minutes or 0.02 hours
+07-20 20:07 INFO: X and Y are ready now.
+07-20 20:07 INFO: saving to csv files...
+07-20 20:07 INFO: DONE, exiting
+07-20 20:09 INFO: **************************************
+07-20 20:09 INFO: log file initialized
+07-20 20:09 INFO: 			** Training model , script : ML_training_model.py
+07-20 20:09 INFO: reading X and Y files
+07-20 20:09 INFO: X and Y dataframes are ready
+07-20 20:09 INFO: Initializing and training the model
+07-20 20:09 INFO: fitting model
+07-20 20:09 INFO: model fitted successfully
+07-20 20:09 INFO: saving to model5.pkl
+07-20 20:09 INFO: DONE, exiting
+07-20 20:14 INFO: *********************************************
+07-20 20:14 INFO: log file initialized
+07-20 20:14 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-20 20:14 INFO: reading data files....
+07-20 20:14 INFO: data is ready
+07-20 20:14 INFO: testing data with size 100
+07-20 20:14 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 17:33 INFO: **************************************
+07-21 17:33 INFO: log file initialized
+07-21 17:33 INFO: 			** Training model , script : ML_training_model.py
+07-21 17:33 INFO: reading X and Y files
+07-21 17:33 INFO: X and Y dataframes are ready
+07-21 17:33 INFO: Initializing and training the model
+07-21 17:33 INFO: fitting model
+07-21 17:33 INFO: model fitted successfully
+07-21 17:33 INFO: saving to model1.pkl
+07-21 17:33 INFO: DONE, exiting
+07-21 17:33 INFO: *********************************************
+07-21 17:33 INFO: log file initialized
+07-21 17:33 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 17:33 INFO: reading data files....
+07-21 17:34 INFO: *********************************************
+07-21 17:34 INFO: log file initialized
+07-21 17:34 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 17:34 INFO: reading data files....
+07-21 17:35 INFO: *********************************************
+07-21 17:35 INFO: log file initialized
+07-21 17:35 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 17:35 INFO: reading data files....
+07-21 17:35 INFO: data is ready
+07-21 17:35 INFO: testing data with size 100
+07-21 17:35 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 17:56 INFO: *********************************************
+07-21 17:56 INFO: log file initialized
+07-21 17:56 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 17:56 INFO: reading data files....
+07-21 17:56 INFO: data is ready
+07-21 17:56 INFO: testing data with size 1
+07-21 17:56 INFO: estimated time is 0.66 seconds, or 0.01 minutes, or 0.01 hours
+07-21 18:27 INFO: *********************************************
+07-21 18:27 INFO: log file initialized
+07-21 18:27 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 18:27 INFO: reading data files....
+07-21 18:27 INFO: data is ready
+07-21 18:27 INFO: testing data with size 1
+07-21 18:27 INFO: estimated time is 0.66 seconds, or 0.01 minutes, or 0.01 hours
+07-21 18:28 INFO: **************************************
+07-21 18:28 INFO: log file initialized
+07-21 18:28 INFO: 			** Training model , script : ML_training_model.py
+07-21 18:28 INFO: reading X and Y files
+07-21 18:28 INFO: X and Y dataframes are ready
+07-21 18:28 INFO: Initializing and training the model
+07-21 18:28 INFO: fitting model
+07-21 18:28 INFO: model fitted successfully
+07-21 18:28 INFO: saving to model2.pkl
+07-21 18:28 INFO: DONE, exiting
+07-21 18:29 INFO: **************************************
+07-21 18:29 INFO: log file initialized
+07-21 18:29 INFO: 			** Training model , script : ML_training_model.py
+07-21 18:29 INFO: reading X and Y files
+07-21 18:29 INFO: X and Y dataframes are ready
+07-21 18:29 INFO: Initializing and training the model
+07-21 18:29 INFO: fitting model
+07-21 18:29 INFO: model fitted successfully
+07-21 18:29 INFO: saving to model3.pkl
+07-21 18:29 INFO: DONE, exiting
+07-21 18:29 INFO: *********************************************
+07-21 18:29 INFO: log file initialized
+07-21 18:29 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 18:29 INFO: reading data files....
+07-21 18:30 INFO: data is ready
+07-21 18:30 INFO: testing data with size 1
+07-21 18:30 INFO: estimated time is 0.66 seconds, or 0.01 minutes, or 0.01 hours
+07-21 18:34 INFO: *********************************************
+07-21 18:34 INFO: log file initialized
+07-21 18:34 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 18:34 INFO: reading data files....
+07-21 18:34 INFO: data is ready
+07-21 18:34 INFO: testing data with size 1
+07-21 18:34 INFO: estimated time is 0.66 seconds, or 0.01 minutes, or 0.01 hours
+07-21 18:34 INFO: it took 0 seconds
+07-21 18:34 INFO: done, saving to a csv file
+07-21 18:34 INFO: DONE, exiting
+07-21 18:34 INFO: *********************************************
+07-21 18:34 INFO: log file initialized
+07-21 18:34 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 18:34 INFO: reading data files....
+07-21 18:35 INFO: data is ready
+07-21 18:35 INFO: testing data with size 100
+07-21 18:35 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 18:36 INFO: it took 66 seconds
+07-21 18:36 INFO: done, saving to a csv file
+07-21 18:36 INFO: DONE, exiting
+07-21 18:41 INFO: *********************************************
+07-21 18:41 INFO: log file initialized
+07-21 18:41 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 18:41 INFO: reading data files....
+07-21 18:41 INFO: data is ready
+07-21 18:41 INFO: testing data with size 100
+07-21 18:41 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 18:42 INFO: it took 66 seconds
+07-21 18:42 INFO: done, saving to a csv file
+07-21 18:42 INFO: DONE, exiting
+07-21 20:01 INFO: **************************************
+07-21 20:01 INFO: log file initialized
+07-21 20:01 INFO: 			** Training model , script : ML_training_model.py
+07-21 20:01 INFO: reading X and Y files
+07-21 20:01 INFO: X and Y dataframes are ready
+07-21 20:01 INFO: Initializing and training the model
+07-21 20:01 INFO: fitting model
+07-21 20:01 INFO: model fitted successfully
+07-21 20:01 INFO: saving to model4.pkl
+07-21 20:01 INFO: DONE, exiting
+07-21 20:02 INFO: *********************************************
+07-21 20:02 INFO: log file initialized
+07-21 20:02 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 20:02 INFO: reading data files....
+07-21 20:02 INFO: data is ready
+07-21 20:02 INFO: testing data with size 100
+07-21 20:02 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 20:03 INFO: it took 64 seconds
+07-21 20:03 INFO: done, saving to a csv file
+07-21 20:03 INFO: DONE, exiting
+07-21 20:04 INFO: **************************************
+07-21 20:04 INFO: log file initialized
+07-21 20:04 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-21 20:04 INFO: getting X and Y for training orders from 0 to 1000
+07-21 20:04 INFO: estimated time is 700.00 seconds, or 11.67 minutes or 0.19 hours
+07-21 20:05 INFO: **************************************
+07-21 20:05 INFO: log file initialized
+07-21 20:05 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-21 20:06 INFO: getting X and Y for training orders from 0 to 1000
+07-21 20:06 INFO: estimated time is 700.00 seconds, or 11.67 minutes or 0.19 hours
+07-21 20:18 INFO: it took 714 seconds
+07-21 20:18 INFO: X and Y are ready now.
+07-21 20:18 INFO: saving to csv files...
+07-21 20:18 INFO: DONE, exiting
+07-21 20:18 INFO: **************************************
+07-21 20:18 INFO: log file initialized
+07-21 20:18 INFO: 			** Training model , script : ML_training_model.py
+07-21 20:18 INFO: reading X and Y files
+07-21 20:18 INFO: X and Y dataframes are ready
+07-21 20:18 INFO: Initializing and training the model
+07-21 20:18 INFO: fitting model
+07-21 20:19 INFO: model fitted successfully
+07-21 20:19 INFO: saving to model5.pkl
+07-21 20:19 INFO: DONE, exiting
+07-21 20:19 INFO: *********************************************
+07-21 20:19 INFO: log file initialized
+07-21 20:19 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 20:19 INFO: reading data files....
+07-21 20:20 INFO: data is ready
+07-21 20:20 INFO: testing data with size 100
+07-21 20:20 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 20:21 INFO: it took 65 seconds
+07-21 20:21 INFO: done, saving to a csv file
+07-21 20:21 INFO: DONE, exiting
+07-21 20:46 INFO: **************************************
+07-21 20:46 INFO: log file initialized
+07-21 20:46 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-21 20:46 INFO: getting X and Y for training orders from 0 to 100
+07-21 20:46 INFO: estimated time is 70.00 seconds, or 1.17 minutes or 0.02 hours
+07-21 20:47 INFO: it took 72 seconds
+07-21 20:47 INFO: X and Y are ready now.
+07-21 20:47 INFO: saving to csv files...
+07-21 20:47 INFO: DONE, exiting
+07-21 20:47 INFO: **************************************
+07-21 20:47 INFO: log file initialized
+07-21 20:47 INFO: 			** Training model , script : ML_training_model.py
+07-21 20:47 INFO: reading X and Y files
+07-21 20:47 INFO: X and Y dataframes are ready
+07-21 20:47 INFO: Initializing and training the model
+07-21 20:47 INFO: fitting model
+07-21 20:48 INFO: model fitted successfully
+07-21 20:48 INFO: saving to model6.pkl
+07-21 20:48 INFO: DONE, exiting
+07-21 20:48 INFO: *********************************************
+07-21 20:48 INFO: log file initialized
+07-21 20:48 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 20:48 INFO: reading data files....
+07-21 20:48 INFO: data is ready
+07-21 20:48 INFO: testing data with size 100
+07-21 20:48 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 20:49 INFO: it took 63 seconds
+07-21 20:49 INFO: done, saving to a csv file
+07-21 20:49 INFO: DONE, exiting
+07-21 20:52 INFO: *********************************************
+07-21 20:52 INFO: log file initialized
+07-21 20:52 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 20:52 INFO: reading data files....
+07-21 20:53 INFO: data is ready
+07-21 20:53 INFO: testing data with size 100
+07-21 20:53 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-21 20:54 INFO: it took 66 seconds
+07-21 20:54 INFO: done, saving to a csv file
+07-21 20:54 INFO: DONE, exiting
+07-21 21:13 INFO: **************************************
+07-21 21:13 INFO: log file initialized
+07-21 21:13 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-21 21:13 INFO: getting X and Y for training orders from 0 to 1000
+07-21 21:13 INFO: estimated time is 700.00 seconds, or 11.67 minutes or 0.19 hours
+07-21 21:26 INFO: it took 787 seconds
+07-21 21:26 INFO: X and Y are ready now.
+07-21 21:26 INFO: saving to csv files...
+07-21 21:26 INFO: DONE, exiting
+07-21 21:27 INFO: **************************************
+07-21 21:27 INFO: log file initialized
+07-21 21:27 INFO: 			** Training model , script : ML_training_model.py
+07-21 21:27 INFO: reading X and Y files
+07-21 21:27 INFO: X and Y dataframes are ready
+07-21 21:27 INFO: Initializing and training the model
+07-21 21:27 INFO: fitting model
+07-21 21:28 INFO: model fitted successfully
+07-21 21:28 INFO: saving to model7.pkl
+07-21 21:28 INFO: DONE, exiting
+07-21 21:30 INFO: *********************************************
+07-21 21:30 INFO: log file initialized
+07-21 21:30 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 21:30 INFO: reading data files....
+07-21 21:30 INFO: data is ready
+07-21 21:30 INFO: testing data with size 1000
+07-21 21:30 INFO: estimated time is 660.00 seconds, or 11.00 minutes, or 5.50 hours
+07-21 21:43 INFO: it took 813 seconds
+07-21 21:43 INFO: done, saving to a csv file
+07-21 21:43 INFO: DONE, exiting
+07-21 22:14 INFO: *********************************************
+07-21 22:14 INFO: log file initialized
+07-21 22:14 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 22:14 INFO: reading data files....
+07-21 22:14 INFO: data is ready
+07-21 22:14 INFO: testing data with size 1000
+07-21 22:14 INFO: estimated time is 660.00 seconds, or 11.00 minutes, or 5.50 hours
+07-21 22:26 INFO: it took 710 seconds
+07-21 22:26 INFO: done, saving to a csv file
+07-21 22:26 INFO: DONE, exiting
+07-21 22:32 INFO: **************************************
+07-21 22:32 INFO: log file initialized
+07-21 22:32 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-21 22:32 INFO: getting X and Y for training orders from 0 to 1000
+07-21 22:32 INFO: estimated time is 700.00 seconds, or 11.67 minutes or 0.19 hours
+07-21 22:46 INFO: it took 848 seconds
+07-21 22:46 INFO: X and Y are ready now.
+07-21 22:46 INFO: saving to csv files...
+07-21 22:46 INFO: DONE, exiting
+07-21 22:47 INFO: **************************************
+07-21 22:47 INFO: log file initialized
+07-21 22:47 INFO: 			** Training model , script : ML_training_model.py
+07-21 22:47 INFO: reading X and Y files
+07-21 22:47 INFO: X and Y dataframes are ready
+07-21 22:47 INFO: Initializing and training the model
+07-21 22:47 INFO: fitting model
+07-21 22:48 INFO: model fitted successfully
+07-21 22:48 INFO: saving to model8.pkl
+07-21 22:48 INFO: DONE, exiting
+07-21 22:48 INFO: *********************************************
+07-21 22:48 INFO: log file initialized
+07-21 22:48 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-21 22:48 INFO: reading data files....
+07-21 22:48 INFO: data is ready
+07-21 22:48 INFO: testing data with size 1000
+07-21 22:48 INFO: estimated time is 660.00 seconds, or 11.00 minutes, or 5.50 hours
+07-21 23:00 INFO: it took 682 seconds
+07-21 23:00 INFO: done, saving to a csv file
+07-21 23:00 INFO: DONE, exiting
+07-27 02:31 INFO: **************************************
+07-27 02:31 INFO: log file initialized
+07-27 02:31 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 02:31 INFO: reading X and Y files
+07-27 02:31 INFO: X and Y dataframes are ready
+07-27 02:31 INFO: Initializing and training the model
+07-27 02:38 INFO: **************************************
+07-27 02:38 INFO: log file initialized
+07-27 02:38 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 02:38 INFO: reading X and Y files
+07-27 02:38 INFO: X and Y dataframes are ready
+07-27 02:38 INFO: Initializing and training the model
+07-27 02:53 INFO: **************************************
+07-27 02:53 INFO: log file initialized
+07-27 02:53 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 02:53 INFO: reading X and Y files
+07-27 02:53 INFO: X and Y dataframes are ready
+07-27 02:53 INFO: Initializing and training the model
+07-27 02:53 INFO: **************************************
+07-27 02:53 INFO: log file initialized
+07-27 02:53 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 02:53 INFO: reading X and Y files
+07-27 02:53 INFO: X and Y dataframes are ready
+07-27 02:53 INFO: Initializing and training the model
+07-27 03:00 INFO: **************************************
+07-27 03:00 INFO: log file initialized
+07-27 03:00 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 03:00 INFO: reading X and Y files
+07-27 03:00 INFO: X and Y dataframes are ready
+07-27 03:00 INFO: Initializing and training the model
+07-27 03:00 INFO: getting training matrix
+07-27 21:31 INFO: **************************************
+07-27 21:31 INFO: log file initialized
+07-27 21:31 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 21:31 INFO: reading X and Y files
+07-27 21:31 INFO: X and Y dataframes are ready
+07-27 21:31 INFO: Initializing and training the model
+07-27 21:31 INFO: getting training matrix
+07-27 21:31 INFO: fitting model ...
+07-27 21:31 INFO: done fitting
+07-27 21:31 INFO: predicting #1 ...
+07-27 21:31 INFO: predicting #2 ...
+07-27 21:31 INFO: done.
+07-27 21:42 INFO: **************************************
+07-27 21:42 INFO: log file initialized
+07-27 21:42 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 21:42 INFO: reading X and Y files
+07-27 21:42 INFO: X and Y dataframes are ready
+07-27 21:42 INFO: Initializing and training the model
+07-27 21:42 INFO: getting training matrix
+07-27 21:43 INFO: fitting model ...
+07-27 21:43 INFO: done fitting
+07-27 21:43 INFO: predicting #1 ...
+07-27 21:43 INFO: predicting #2 ...
+07-27 21:43 INFO: done.
+07-27 21:50 INFO: **************************************
+07-27 21:50 INFO: log file initialized
+07-27 21:50 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 21:50 INFO: reading X and Y files
+07-27 21:50 INFO: X and Y dataframes are ready
+07-27 21:50 INFO: Initializing and training the model
+07-27 21:50 INFO: getting training matrix
+07-27 21:50 INFO: fitting model ...
+07-27 21:50 INFO: done fitting
+07-27 21:50 INFO: predicting #1 ...
+07-27 21:50 INFO: predicting #2 ...
+07-27 21:50 INFO: done.
+07-27 21:57 INFO: **************************************
+07-27 21:57 INFO: log file initialized
+07-27 21:57 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 21:57 INFO: reading X and Y files
+07-27 21:57 INFO: X and Y dataframes are ready
+07-27 21:57 INFO: Initializing and training the model
+07-27 21:57 INFO: getting training matrix
+07-27 21:57 INFO: fitting model ...
+07-27 21:57 INFO: done fitting
+07-27 21:57 INFO: predicting #1 ...
+07-27 21:57 INFO: predicting #2 ...
+07-27 21:57 INFO: done.
+07-27 22:10 INFO: **************************************
+07-27 22:10 INFO: log file initialized
+07-27 22:10 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 22:10 INFO: reading X and Y files
+07-27 22:10 INFO: X and Y dataframes are ready
+07-27 22:10 INFO: Initializing and training the model
+07-27 22:10 INFO: getting training matrix
+07-27 22:10 INFO: fitting model ...
+07-27 22:10 INFO: done fitting
+07-27 22:10 INFO: predicting #1 ...
+07-27 22:10 INFO: predicting #2 ...
+07-27 22:10 INFO: done.
+07-27 22:12 INFO: **************************************
+07-27 22:12 INFO: log file initialized
+07-27 22:12 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 22:12 INFO: reading X and Y files
+07-27 22:12 INFO: X and Y dataframes are ready
+07-27 22:12 INFO: Initializing and training the model
+07-27 22:12 INFO: getting training matrix
+07-27 22:12 INFO: fitting model ...
+07-27 22:12 INFO: done fitting
+07-27 22:12 INFO: predicting #1 ...
+07-27 22:12 INFO: predicting #2 ...
+07-27 22:12 INFO: done.
+07-27 22:38 INFO: **************************************
+07-27 22:38 INFO: log file initialized
+07-27 22:38 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 22:38 INFO: reading X and Y files
+07-27 22:38 INFO: X and Y dataframes are ready
+07-27 22:38 INFO: Initializing and training the model
+07-27 22:38 INFO: getting training matrix
+07-27 22:39 INFO: fitting model ...
+07-27 22:39 INFO: done fitting
+07-27 22:39 INFO: predicting #1 ...
+07-27 22:39 INFO: predicting #2 ...
+07-27 22:39 INFO: done.
+07-27 22:42 INFO: **************************************
+07-27 22:42 INFO: log file initialized
+07-27 22:42 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 22:42 INFO: reading X and Y files
+07-27 22:42 INFO: X and Y dataframes are ready
+07-27 22:42 INFO: Initializing and training the model
+07-27 22:42 INFO: getting training matrix
+07-27 22:43 INFO: fitting model ...
+07-27 22:43 INFO: done fitting
+07-27 22:43 INFO: predicting #1 ...
+07-27 22:43 INFO: predicting #2 ...
+07-27 22:43 INFO: done.
+07-27 22:44 INFO: **************************************
+07-27 22:44 INFO: log file initialized
+07-27 22:44 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 22:44 INFO: reading X and Y files
+07-27 22:44 INFO: X and Y dataframes are ready
+07-27 22:44 INFO: Initializing and training the model
+07-27 22:44 INFO: getting training matrix
+07-27 22:44 INFO: fitting model ...
+07-27 22:44 INFO: done fitting
+07-27 22:44 INFO: predicting #1 ...
+07-27 22:44 INFO: predicting #2 ...
+07-27 22:44 INFO: done.
+07-27 22:58 INFO: **************************************
+07-27 22:58 INFO: log file initialized
+07-27 22:58 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 22:58 INFO: reading X and Y files
+07-27 22:58 INFO: X and Y dataframes are ready
+07-27 22:58 INFO: Initializing and training the model
+07-27 22:58 INFO: getting training matrix
+07-27 22:58 INFO: fitting model ...
+07-27 22:58 INFO: done fitting
+07-27 22:58 INFO: predicting #1 ...
+07-27 22:58 INFO: predicting #2 ...
+07-27 22:58 INFO: done.
+07-27 22:59 INFO: saving to model1.pkl
+07-27 23:00 INFO: **************************************
+07-27 23:00 INFO: log file initialized
+07-27 23:00 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 23:00 INFO: reading X and Y files
+07-27 23:00 INFO: X and Y dataframes are ready
+07-27 23:00 INFO: Initializing and training the model
+07-27 23:00 INFO: getting training matrix
+07-27 23:00 INFO: fitting model ...
+07-27 23:00 INFO: done fitting
+07-27 23:00 INFO: predicting #1 ...
+07-27 23:00 INFO: predicting #2 ...
+07-27 23:00 INFO: done.
+07-27 23:00 INFO: saving to model1.pkl
+07-27 23:01 INFO: **************************************
+07-27 23:01 INFO: log file initialized
+07-27 23:01 INFO: 			** Xgboost using CV , script : xgboost.py
+07-27 23:01 INFO: reading X and Y files
+07-27 23:01 INFO: X and Y dataframes are ready
+07-27 23:01 INFO: Initializing and training the model
+07-27 23:01 INFO: getting training matrix
+07-27 23:02 INFO: fitting model ...
+07-27 23:02 INFO: done fitting
+07-27 23:02 INFO: predicting #1 ...
+07-27 23:02 INFO: predicting #2 ...
+07-27 23:02 INFO: done.
+07-27 23:02 INFO: saving to model1.pkl
+07-27 23:03 INFO: *********************************************
+07-27 23:03 INFO: log file initialized
+07-27 23:03 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-27 23:03 INFO: reading data files....
+07-27 23:03 INFO: data is ready
+07-27 23:03 INFO: testing data with size 100
+07-27 23:03 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-28 00:05 INFO: **************************************
+07-28 00:05 INFO: log file initialized
+07-28 00:05 INFO: 			** Xgboost using CV , script : xgboost.py
+07-28 00:05 INFO: reading X and Y files
+07-28 00:05 INFO: X and Y dataframes are ready
+07-28 00:05 INFO: Initializing and training the model
+07-28 00:05 INFO: getting training matrix
+07-28 00:06 INFO: fitting model ...
+07-28 00:06 INFO: done fitting
+07-28 00:06 INFO: predicting #1 ...
+07-28 00:06 INFO: predicting #2 ...
+07-28 00:06 INFO: done.
+07-28 00:06 INFO: saving to model1.pkl
+07-28 00:06 INFO: DONE
+Exiting...
+07-28 00:06 INFO: *********************************************
+07-28 00:06 INFO: log file initialized
+07-28 00:06 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-28 00:06 INFO: reading data files....
+07-28 00:06 INFO: data is ready
+07-28 00:06 INFO: testing data with size 100
+07-28 00:06 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-28 00:08 INFO: it took 80 seconds
+07-28 00:08 INFO: done, saving to a csv file
+07-28 00:08 INFO: DONE, exiting
+07-28 00:19 INFO: **************************************
+07-28 00:19 INFO: log file initialized
+07-28 00:19 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-28 00:20 INFO: getting X and Y for training orders from 0 to 100
+07-28 00:20 INFO: estimated time is 70.00 seconds, or 1.17 minutes or 0.02 hours
+07-28 00:27 INFO: **************************************
+07-28 00:27 INFO: log file initialized
+07-28 00:27 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-28 00:27 INFO: getting X and Y for training orders from 0 to 100
+07-28 00:27 INFO: estimated time is 70.00 seconds, or 1.17 minutes or 0.02 hours
+07-28 00:28 INFO: it took 73 seconds
+07-28 00:28 INFO: X and Y are ready now.
+07-28 00:28 INFO: saving to csv files...
+07-28 00:28 INFO: DONE, exiting
+07-28 00:32 INFO: *********************************************
+07-28 00:32 INFO: log file initialized
+07-28 00:32 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-28 00:32 INFO: reading data files....
+07-28 00:33 INFO: *********************************************
+07-28 00:33 INFO: log file initialized
+07-28 00:33 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-28 00:33 INFO: reading data files....
+07-28 00:33 INFO: data is ready
+07-28 00:33 INFO: predicting data with size 5967
+07-28 00:33 INFO: it took 0 seconds
+07-28 00:33 INFO: saving to a csv file
+07-28 00:36 INFO: *********************************************
+07-28 00:36 INFO: log file initialized
+07-28 00:36 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-28 00:36 INFO: reading data files....
+07-28 00:37 INFO: data is ready
+07-28 00:37 INFO: testing data with size 100
+07-28 00:37 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-28 00:38 INFO: it took 71 seconds
+07-28 00:38 INFO: done, saving to a csv file
+07-28 00:38 INFO: DONE, exiting
+07-28 00:39 INFO: **************************************
+07-28 00:39 INFO: log file initialized
+07-28 00:39 INFO: 			** Xgboost using CV , script : xgboost.py
+07-28 00:39 INFO: reading X and Y files
+07-28 00:39 INFO: X and Y dataframes are ready
+07-28 00:39 INFO: Initializing and training the model
+07-28 00:39 INFO: getting training matrix
+07-28 00:40 INFO: fitting model ...
+07-28 00:40 INFO: done fitting
+07-28 00:40 INFO: predicting #1 ...
+07-28 00:40 INFO: predicting #2 ...
+07-28 00:40 INFO: done.
+07-28 00:40 INFO: saving to model1.pkl
+07-28 00:40 INFO: DONE
+Exiting...
+07-28 00:40 INFO: *********************************************
+07-28 00:40 INFO: log file initialized
+07-28 00:40 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-28 00:40 INFO: reading data files....
+07-28 00:41 INFO: data is ready
+07-28 00:41 INFO: testing data with size 100
+07-28 00:41 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-28 00:42 INFO: it took 68 seconds
+07-28 00:42 INFO: done, saving to a csv file
+07-28 00:42 INFO: DONE, exiting
+07-28 00:42 INFO: *********************************************
+07-28 00:42 INFO: log file initialized
+07-28 00:42 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-28 00:42 INFO: reading data files....
+07-28 00:43 INFO: data is ready
+07-28 00:43 INFO: testing data with size 100
+07-28 00:43 INFO: estimated time is 66.00 seconds, or 1.10 minutes, or 0.55 hours
+07-28 00:44 INFO: it took 79 seconds
+07-28 00:44 INFO: done, saving to a csv file
+07-28 00:44 INFO: DONE, exiting
+07-30 18:40 INFO: **************************************
+07-30 18:40 INFO: log file initialized
+07-30 18:40 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 18:40 INFO: reading X and Y files
+07-30 18:40 INFO: X and Y dataframes are ready
+07-30 18:40 INFO: Initializing and training the model
+07-30 18:40 INFO: getting training matrix
+07-30 18:40 INFO: fitting model ...
+07-30 18:40 INFO: done fitting
+07-30 18:40 INFO: predicting #1 ...
+07-30 18:40 INFO: predicting #2 ...
+07-30 18:40 INFO: done.
+07-30 18:41 INFO: saving to model1.pkl
+07-30 18:41 INFO: DONE
+Exiting...
+07-30 18:50 INFO: **************************************
+07-30 18:50 INFO: log file initialized
+07-30 18:50 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 18:50 INFO: reading X and Y files
+07-30 18:50 INFO: X and Y dataframes are ready
+07-30 18:50 INFO: Initializing and training the model
+07-30 18:52 INFO: **************************************
+07-30 18:52 INFO: log file initialized
+07-30 18:52 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 18:52 INFO: reading X and Y files
+07-30 18:52 INFO: X and Y dataframes are ready
+07-30 18:52 INFO: Initializing and training the model
+07-30 18:57 INFO: **************************************
+07-30 18:57 INFO: log file initialized
+07-30 18:57 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 18:57 INFO: reading X and Y files
+07-30 18:57 INFO: X and Y dataframes are ready
+07-30 18:57 INFO: Initializing and training the model
+07-30 18:58 INFO: **************************************
+07-30 18:58 INFO: log file initialized
+07-30 18:58 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 18:58 INFO: reading X and Y files
+07-30 18:58 INFO: X and Y dataframes are ready
+07-30 18:58 INFO: Initializing and training the model
+07-30 19:03 INFO: **************************************
+07-30 19:03 INFO: log file initialized
+07-30 19:03 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 19:03 INFO: reading X and Y files
+07-30 19:03 INFO: X and Y dataframes are ready
+07-30 19:03 INFO: Initializing and training the model
+07-30 19:03 INFO: **************************************
+07-30 19:03 INFO: log file initialized
+07-30 19:03 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 19:03 INFO: reading X and Y files
+07-30 19:03 INFO: X and Y dataframes are ready
+07-30 19:03 INFO: Initializing and training the model
+07-30 19:03 INFO: **************************************
+07-30 19:03 INFO: log file initialized
+07-30 19:03 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 19:03 INFO: reading X and Y files
+07-30 19:03 INFO: X and Y dataframes are ready
+07-30 19:03 INFO: Initializing and training the model
+07-30 19:03 INFO: **************************************
+07-30 19:03 INFO: log file initialized
+07-30 19:03 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 19:03 INFO: reading X and Y files
+07-30 19:03 INFO: X and Y dataframes are ready
+07-30 19:03 INFO: Initializing and training the model
+07-30 19:53 INFO: **************************************
+07-30 19:53 INFO: log file initialized
+07-30 19:53 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 19:53 INFO: reading X and Y files
+07-30 19:53 INFO: X and Y dataframes are ready
+07-30 19:53 INFO: Initializing and training the model
+07-30 20:04 INFO: saving to model1.pkl
+07-30 20:04 INFO: DONE
+Exiting...
+07-30 20:08 INFO: **************************************
+07-30 20:08 INFO: log file initialized
+07-30 20:08 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 20:08 INFO: reading X and Y files
+07-30 20:08 INFO: X and Y dataframes are ready
+07-30 20:08 INFO: Initializing and training the model
+07-30 20:14 INFO: **************************************
+07-30 20:14 INFO: log file initialized
+07-30 20:14 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 20:14 INFO: reading X and Y files
+07-30 20:14 INFO: X and Y dataframes are ready
+07-30 20:14 INFO: Initializing and training the model
+07-30 20:37 INFO: **************************************
+07-30 20:37 INFO: log file initialized
+07-30 20:37 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 20:37 INFO: reading X and Y files
+07-30 20:37 INFO: X and Y dataframes are ready
+07-30 20:37 INFO: Initializing and training the model
+07-30 20:58 INFO: saving to model1.pkl
+07-30 20:58 INFO: DONE
+Exiting...
+07-30 21:00 INFO: **************************************
+07-30 21:00 INFO: log file initialized
+07-30 21:00 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 21:00 INFO: reading X and Y files
+07-30 21:00 INFO: X and Y dataframes are ready
+07-30 21:00 INFO: Initializing and training the model
+07-30 21:00 INFO: **************************************
+07-30 21:00 INFO: log file initialized
+07-30 21:00 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 21:00 INFO: reading X and Y files
+07-30 21:00 INFO: X and Y dataframes are ready
+07-30 21:00 INFO: Initializing and training the model
+07-30 21:00 INFO: getting training matrix
+07-30 21:01 INFO: fitting model ...
+07-30 21:01 INFO: done fitting
+07-30 21:01 INFO: predicting #1 ...
+07-30 21:01 INFO: predicting #2 ...
+07-30 21:01 INFO: done.
+07-30 21:01 INFO: saving to model1.pkl
+07-30 21:01 INFO: DONE
+Exiting...
+07-30 21:03 INFO: **************************************
+07-30 21:03 INFO: log file initialized
+07-30 21:03 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 21:03 INFO: reading X and Y files
+07-30 21:03 INFO: X and Y dataframes are ready
+07-30 21:03 INFO: Initializing and training the model
+07-30 21:58 INFO: DONE
+Exiting...
+07-30 22:01 INFO: **************************************
+07-30 22:01 INFO: log file initialized
+07-30 22:01 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 22:01 INFO: reading X and Y files
+07-30 22:01 INFO: X and Y dataframes are ready
+07-30 22:01 INFO: Initializing and training the model
+07-30 22:31 INFO: DONE
+Exiting...
+07-30 22:34 INFO: **************************************
+07-30 22:34 INFO: log file initialized
+07-30 22:34 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 22:34 INFO: reading X and Y files
+07-30 22:34 INFO: X and Y dataframes are ready
+07-30 22:34 INFO: Initializing and training the model
+07-30 22:35 INFO: **************************************
+07-30 22:35 INFO: log file initialized
+07-30 22:35 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 22:35 INFO: reading X and Y files
+07-30 22:35 INFO: X and Y dataframes are ready
+07-30 22:35 INFO: Initializing and training the model
+07-30 23:54 INFO: DONE
+Exiting...
+07-30 23:56 INFO: **************************************
+07-30 23:56 INFO: log file initialized
+07-30 23:56 INFO: 			** Xgboost using CV , script : xgboost.py
+07-30 23:56 INFO: reading X and Y files
+07-30 23:56 INFO: X and Y dataframes are ready
+07-30 23:56 INFO: Initializing and training the model
+07-31 00:00 INFO: DONE
+Exiting...
+07-31 00:02 INFO: **************************************
+07-31 00:02 INFO: log file initialized
+07-31 00:02 INFO: 			** Xgboost using CV , script : xgboost.py
+07-31 00:02 INFO: reading X and Y files
+07-31 00:02 INFO: X and Y dataframes are ready
+07-31 00:02 INFO: Initializing and training the model
+07-31 00:02 INFO: **************************************
+07-31 00:02 INFO: log file initialized
+07-31 00:02 INFO: 			** Xgboost using CV , script : xgboost.py
+07-31 00:02 INFO: reading X and Y files
+07-31 00:02 INFO: X and Y dataframes are ready
+07-31 00:02 INFO: Initializing and training the model
+07-31 00:10 INFO: DONE
+Exiting...
+07-31 00:14 INFO: **************************************
+07-31 00:14 INFO: log file initialized
+07-31 00:14 INFO: 			** Xgboost using CV , script : xgboost.py
+07-31 00:14 INFO: reading X and Y files
+07-31 00:14 INFO: X and Y dataframes are ready
+07-31 00:14 INFO: Initializing and training the model
+07-31 00:14 INFO: getting training matrix
+07-31 00:14 INFO: fitting model ...
+07-31 00:14 INFO: done fitting
+07-31 00:14 INFO: predicting #1 ...
+07-31 00:14 INFO: predicting #2 ...
+07-31 00:14 INFO: done.
+07-31 00:15 INFO: saving to model1.pkl
+07-31 00:15 INFO: DONE
+Exiting...
+07-31 00:15 INFO: **************************************
+07-31 00:15 INFO: log file initialized
+07-31 00:15 INFO: 			** Xgboost using CV , script : xgboost.py
+07-31 00:15 INFO: reading X and Y files
+07-31 00:15 INFO: X and Y dataframes are ready
+07-31 00:15 INFO: Initializing and training the model
+07-31 00:15 INFO: getting training matrix
+07-31 00:15 INFO: fitting model ...
+07-31 00:15 INFO: done fitting
+07-31 00:15 INFO: predicting #1 ...
+07-31 00:15 INFO: predicting #2 ...
+07-31 00:15 INFO: done.
+07-31 00:15 INFO: saving to model1.pkl
+07-31 00:15 INFO: DONE
+Exiting...
+07-31 00:16 INFO: **************************************
+07-31 00:16 INFO: log file initialized
+07-31 00:16 INFO: 			** Extraction X and Y , script : extract_X_Y.py
+07-31 00:17 INFO: getting X and Y for training orders from 0 to 1000
+07-31 00:17 INFO: estimated time is 700.00 seconds, or 11.67 minutes or 0.19 hours
+07-31 00:29 INFO: it took 702 seconds
+07-31 00:29 INFO: X and Y are ready now.
+07-31 00:29 INFO: saving to csv files...
+07-31 00:29 INFO: DONE, exiting
+07-31 00:30 INFO: **************************************
+07-31 00:30 INFO: log file initialized
+07-31 00:30 INFO: 			** Xgboost using CV , script : xgboost.py
+07-31 00:30 INFO: reading X and Y files
+07-31 00:30 INFO: X and Y dataframes are ready
+07-31 00:30 INFO: Initializing and training the model
+07-31 00:30 INFO: getting training matrix
+07-31 00:33 INFO: fitting model ...
+07-31 00:33 INFO: done fitting
+07-31 00:33 INFO: predicting #1 ...
+07-31 00:33 INFO: predicting #2 ...
+07-31 00:33 INFO: done.
+07-31 00:35 INFO: saving to model1.pkl
+07-31 00:35 INFO: DONE
+Exiting...
+07-31 00:36 INFO: *********************************************
+07-31 00:36 INFO: log file initialized
+07-31 00:36 INFO: 			 ** predicting test data, script : ML_testing_model.py
+07-31 00:36 INFO: reading data files....
+07-31 00:36 INFO: data is ready
+07-31 00:36 INFO: testing data with size 1000
+07-31 00:36 INFO: estimated time is 660.00 seconds, or 11.00 minutes, or 5.50 hours
+07-31 00:47 INFO: it took 652 seconds
+07-31 00:47 INFO: done, saving to a csv file
+07-31 00:47 INFO: DONE, exiting
+07-31 00:49 INFO: **************************************
+07-31 00:49 INFO: log file initialized
+07-31 00:49 INFO: 			** Xgboost using CV , script : xgboost.py
+07-31 00:49 INFO: reading X and Y files
+07-31 00:49 INFO: X and Y dataframes are ready
+07-31 00:49 INFO: Initializing and training the model
+07-31 00:49 INFO: getting training matrix
+07-31 00:49 INFO: **************************************
+07-31 00:49 INFO: log file initialized
+07-31 00:49 INFO: 			** Xgboost using CV , script : xgboost.py
+07-31 00:49 INFO: reading X and Y files
+07-31 00:49 INFO: X and Y dataframes are ready
+07-31 00:49 INFO: Initializing and training the model
+07-31 00:49 INFO: getting training matrix
+07-31 00:50 INFO: fitting model ...
+07-31 00:51 INFO: done fitting
+07-31 00:51 INFO: predicting #1 ...
+07-31 00:51 INFO: predicting #2 ...
+07-31 00:51 INFO: done.
+07-31 00:51 INFO: saving to model1.pkl
+07-31 00:51 INFO: DONE
+Exiting...

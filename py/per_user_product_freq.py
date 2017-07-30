@@ -54,5 +54,7 @@ def user_product_freq(orders, products):
 
 	# apply get_products() on each order.
 	orders.apply(get_products, axis=1);
+
 	norm_products_freq = products_freq.apply(lambda d: d - np.median(d) / d.max(),axis=1)
-	return norm_products_freq;
+
+	return products_freq;

@@ -15,13 +15,19 @@ def evaluate(filename):
 	def update_score(product_pred):
 		order_id = product_pred.order_id
 		products = product_pred.products
-		#y_predicted = products.get_values()[0]
-		y_predicted = products.split(' ')
-		y_predicted = [ int(i) for i in y_predicted ]
+		try :
+			#y_predicted = products.get_values()[0]
+			y_predicted = products.split(' ')
+			y_predicted = [ float(i) for i in y_predicted ]
+		except AttributeError :
+			try :
+				y_predicted = [ float(products) ]
+			except ValueError :
+				y_predicted = [ ];
 		y_expected = products_true[ products_true.order_id == order_id ].product_id.tolist()
 		true_positive = sum([ 1.0 for i in y_predicted if i in y_expected  ])
-		prec = true_positive / len(y_predicted)
-		rec  = true_positive / len(y_expected)
+		prec = true_positive / len(y_predicted) if len(y_predicted) > 0 else 0
+		rec  = true_positive / len(y_expected)  if len(y_expected) > 0 else 0
 		try :
 			f1   = 2.0 * prec * rec / ( prec + rec )
 		except ZeroDivisionError :
@@ -36,3 +42,6 @@ def evaluate(filename):
 	F1        = np.mean(F1)
 	print 'Precision : %0.4f\tRecall : %0.4f\tF1-score : %0.4f\n' % (precision, recall, F1)
 	return precision, recall, F1
+
+if __name__ == "__main__" :
+	evaluate('predictions.csv')
